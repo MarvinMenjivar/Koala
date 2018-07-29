@@ -1,13 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "promotions": [
+    { "id": 1, "title": "2x1 en Pizzas Gigantes", "PromoImageUrl":"", "Description":"", "Expiration":"Expira en 5d" },
+    { "id": 2, "title": "All You can eat ensaladas", "PromoImageUrl":"", "Description":"", "Expiration":"Expira en 5d" },
+    { "id": 3, "title": "Desayunos para compartir", "PromoImageUrl":"", "Description":"", "Expiration":"Expira en 5d" },
+    { "id": 4, "title": "Banquetes para amigos", "PromoImageUrl":"", "Description":"", "Expiration":"Expira en 5d" },
+    { "id": 5, "title": "50% descuento en tu segundo combo", "PromoImageUrl":"", "Description":"", "Expiration":"Expira en 5d" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+   
   "profile": {
     "name": "typicode"
   }
