@@ -2,9 +2,9 @@
   "promotions": [
     { "id": 1, "title": "2x1 en Pizzas Gigantes", "PromoImageUrl":"https://www.pizzahut.com.ec/img/promo/2.jpg", "Description":"", "Expiration":"Expira en 5d" },
     { "id": 2, "title": "All You can eat ensaladas", "PromoImageUrl":"https://pbs.twimg.com/media/BkEt9bQCIAAew11.png", "Description":"", "Expiration":"Expira en 5d" },
-    { "id": 3, "title": "Desayunos para compartir", "PromoImageUrl":"", "Description":"", "Expiration":"Expira en 5d" },
-    { "id": 4, "title": "Banquetes para amigos", "PromoImageUrl":"", "Description":"", "Expiration":"Expira en 5d" },
-    { "id": 5, "title": "50% descuento en tu segundo combo", "PromoImageUrl":"", "Description":"", "Expiration":"Expira en 5d" }
+    { "id": 3, "title": "Desayunos para compartir", "PromoImageUrl":"https://pbs.twimg.com/media/BGnHoXSCUAAwHp2.jpg", "Description":"", "Expiration":"Expira en 5d" },
+    { "id": 4, "title": "Banquetes para amigos", "PromoImageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfAuvvQ2S3xsqNHOqltjj0dDn9VW_4CR2QKmpLuQjrCRrdM2OWNw", "Description":"", "Expiration":"Expira en 5d" },
+    { "id": 5, "title": "50% descuento en tu segundo combo", "PromoImageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1bCvfUQoCnY8vwuZLMc7mmn5iFLxHSuvSllCqo94Ball3k_kA", "Description":"", "Expiration":"Expira en 5d" }
   ],
    
   "profile": {
