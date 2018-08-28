@@ -1,7 +1,7 @@
 {
   "promotions": [
-    { "id": 1, "title": "2x1 en Pizzas Gigantes", "PromoImageUrl":"", "Description":"", "Expiration":"Expira en 5d" },
-    { "id": 2, "title": "All You can eat ensaladas", "PromoImageUrl":"", "Description":"", "Expiration":"Expira en 5d" },
+    { "id": 1, "title": "2x1 en Pizzas Gigantes", "PromoImageUrl":"https://www.google.com.sv/imgres?imgurl=https%3A%2F%2Fwww.pizzahut.com.ec%2Fimg%2Fpromo%2F2.jpg&imgrefurl=https%3A%2F%2Fwww.pizzahut.com.ec%2Fpromociones%2F&docid=7GXA7np0bQc6-M&tbnid=W5eNrrYSNfBU2M%3A&vet=10ahUKEwiewJHP7o7dAhVK0FMKHerpDoEQMwg7KAQwBA..i&w=1200&h=800&bih=662&biw=1366&q=pizza%20hut%20pizzas%202x1&ved=0ahUKEwiewJHP7o7dAhVK0FMKHerpDoEQMwg7KAQwBA&iact=mrc&uact=8", "Description":"", "Expiration":"Expira en 5d" },
+    { "id": 2, "title": "All You can eat ensaladas", "PromoImageUrl":"https://www.google.com.sv/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjckKKt7o7dAhUItlMKHSLuAgMQjRx6BAgBEAU&url=https%3A%2F%2Fpt-br.facebook.com%2Fpizzahutpr%2Fposts%2Fcomienza-con-una-rica-ensalada-en-nuestro-buffet-puedes-disfrutar-de-aperitivo-p%2F1723829630980190%2F&psig=AOvVaw1Z4BGYLLuEHXhSEwoAWLln&ust=1535515276803894", "Description":"", "Expiration":"Expira en 5d" },
     { "id": 3, "title": "Desayunos para compartir", "PromoImageUrl":"", "Description":"", "Expiration":"Expira en 5d" },
     { "id": 4, "title": "Banquetes para amigos", "PromoImageUrl":"", "Description":"", "Expiration":"Expira en 5d" },
     { "id": 5, "title": "50% descuento en tu segundo combo", "PromoImageUrl":"", "Description":"", "Expiration":"Expira en 5d" }
